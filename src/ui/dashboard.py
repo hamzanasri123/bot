@@ -366,5 +366,4 @@ class TradingDashboard:
                 id='positions-table',
                 columns=[{'name': col, 'id': col} for col in table_data[0].keys()],
                 data=table_data,
-                style_table={'overflowX': 'auto'},
-                style_ce<response clipped><NOTE>To save on context only part of this file has been shown to you. You should retry this tool after you have searched inside the file with `grep -n` in order to find the line numbers of what you are looking for.</NOTE>
+                style_table={'overflowX': 'auto'},)

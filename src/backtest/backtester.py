@@ -388,5 +388,7 @@ class Backtester:
                             risk_per_share = current_price * 0.02  # 2% stop loss
                             max_risk = portfolio.equity * 0.01  # Risk 1% of portfolio
                             shares = int(max_risk / risk_per_share)
-                            
-    <response clipped><NOTE>To save on context only part of this file has been shown to you. You should retry this tool after you have searched inside the file with `grep -n` in order to find the line numbers of what you are looking for.</NOTE>
+                
+            except:
+                pass  
+                        

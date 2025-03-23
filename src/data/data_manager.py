@@ -446,4 +446,3 @@ if __name__ == "__main__":
     data_dir.mkdir(exist_ok=True)
     
     # Initialize DataManager
-   <response clipped><NOTE>To save on context only part of this file has been shown to you. You should retry this tool after you have searched inside the file with `grep -n` in order to find the line numbers of what you are looking for.</NOTE>
